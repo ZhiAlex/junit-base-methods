@@ -4,16 +4,6 @@ import org.junit.jupiter.api.Test;
 
 public class PracticeFormViewModelPageTest extends BaseTest {
 
-    @BeforeEach
-    public void beforeEach() {
-        System.out.println("before");
-    }
-
-    @AfterEach
-    public void afterEach() {
-        System.out.println("after");
-    }
-
     @Test
     public void fillAutomationPracticeFormPage() {
 
